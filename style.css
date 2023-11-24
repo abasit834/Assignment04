@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+}
+body h1{
+    margin-top: 50px;
+    text-align: center;
+}
+#password{
+    text-align: center;
+    margin-top:20px;
+}
+body button{
+    margin-top:200px;
+}
